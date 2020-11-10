@@ -9,3 +9,9 @@ class Calculator
 };
 
 #endif//CALCULATOR_H
+
+//dkhskh
+//sdfsdfgdfgkgr
+//
+//jjgejfdffddfg
+//jjfgdjg
